@@ -9,7 +9,7 @@ An attempt to inject css to [i-Ma'luum](https://imaluum.iium.edu.my/home) websit
 
 ## 📱Screenshots
 
-![Screenshot 2023-10-04 212036](https://github.com/qryskalyst20/dark-imaluum/assets/65181897/57af8ede-e53b-4cfb-9095-c285835facc9)
+![demo1](/docs/darkimaluum.gif)
 
 ## 🔧 Usage
 1. **Clone the repo**
