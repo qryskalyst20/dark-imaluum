@@ -1,0 +1,73 @@
+p,
+h1,
+h2,
+h3,
+h4 {
+  color: #f1f5f9 !important;
+}
+
+.body-page {
+  background: #18181b !important;
+}
+
+footer {
+  background: #27272a !important;
+  color: #f1f5f9 !important;
+}
+
+.content-header > .breadcrumb {
+  background: transparent !important;
+  color: #f1f5f9 !important;
+}
+
+.breadcrumb > .active {
+  color: #f1f5f9 !important;
+}
+
+.content-header > .breadcrumb > li > a {
+  color: #f1f5f9 !important;
+}
+
+.skin-green .wrapper,
+.skin-green .main-sidebar,
+.skin-green .left-side {
+  background: #212123 !important;
+}
+
+.skin-green .sidebar-menu > li:hover > a,
+.skin-green .sidebar-menu > li.active > a {
+  background: #27272a !important;
+}
+
+.skin-green .sidebar-menu > li > .treeview-menu {
+  background: #29292b !important;
+}
+
+iframe
+  p[style*="white-space: nowrap;text-overflow:ellipsis; overflow: hidden; width:90%"]
+  a {
+  color: #f1f5f9 !important;
+}
+
+.card {
+  background-color: rgba(255, 255, 255, 0.1) !important;
+  border: 1px solid rgba(255, 255, 255, 0.1) !important;
+  backdrop-filter: blur(20px) !important;
+}
+
+.box-header.bg-green-gradient {
+  background: #00a65a !important;
+  border-radius: 16px 16px 0 0;
+}
+
+.box.box-solid.box-shadow {
+  position: relative;
+  margin-bottom: 20px;
+  width: 100%;
+  background: rgba(255, 255, 255, 0.2) !important;
+  border-radius: 16px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(5px) !important;
+  -webkit-backdrop-filter: blur(5px);
+  border: 1px solid rgba(255, 255, 255, 0.3) !important;
+}
