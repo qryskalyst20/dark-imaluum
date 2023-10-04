@@ -1,8 +1,10 @@
 p,
+b,
 h1,
 h2,
 h3,
-h4 {
+h4,
+h5 {
   color: #f1f5f9 !important;
 }
 
@@ -43,12 +45,6 @@ footer {
   background: #29292b !important;
 }
 
-iframe
-  p[style*="white-space: nowrap;text-overflow:ellipsis; overflow: hidden; width:90%"]
-  a {
-  color: #f1f5f9 !important;
-}
-
 .card {
   background-color: rgba(255, 255, 255, 0.1) !important;
   border: 1px solid rgba(255, 255, 255, 0.1) !important;
@@ -70,4 +66,53 @@ iframe
   backdrop-filter: blur(5px) !important;
   -webkit-backdrop-filter: blur(5px);
   border: 1px solid rgba(255, 255, 255, 0.3) !important;
+}
+
+.box.box-primary {
+  background: #27272a !important;
+  border-top-color: #00a65a !important;
+}
+
+.table > thead > tr > th,
+.table > tbody > tr > th,
+.table > tfoot > tr > th,
+.table > thead > tr > td,
+.table > tbody > tr > td,
+.table > tfoot > tr > td {
+  border-top: 1px solid rgba(255, 255, 255, 0.1) !important;
+}
+
+.box-header.with-border {
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1) !important;
+}
+
+.box {
+  background: rgba(255, 255, 255, 0.1) !important;
+  border-top: 3px solid #00a65a !important;
+}
+
+.box-body {
+  background: rgba(255, 255, 255, 0.1) !important;
+  border-top: 2px solid #00a65a !important;
+}
+
+.table > thead > tr > th {
+  border-bottom: 2px solid rgba(255, 255, 255, 0.1) !important;
+}
+
+thead {
+  background: rgba(255, 255, 255, 0.1) !important;
+}
+
+th,
+td {
+  color: #f1f5f9 !important;
+}
+
+tr:hover {
+  background: rgba(255, 255, 255, 0.1) !important;
+}
+
+.box-footer.clearfix {
+  background-color: rgba(255, 255, 255, 0.1) !important;
 }
