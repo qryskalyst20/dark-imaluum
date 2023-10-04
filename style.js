@@ -11,21 +11,19 @@ const parentItem = document.querySelector(
 );
 
 if (parentItem) {
-  parentItem.style.display = "flex";
-  parentItem.style.justifyContent = "center";
-  parentItem.style.alignItems = "center";
 }
+parentItem.style.display = "flex";
+parentItem.style.justifyContent = "center";
+parentItem.style.alignItems = "center";
+parentItem.style.height = "fit-content";
 
 const newItem = document.createElement("div.newItem");
-
-if (newItem) {
-  newItem.innerHTML = ` 
+newItem.innerHTML = ` 
   <a href="https://github.com/qryskalyst20/dark-imaluum" target="_blank" style="color: white; font-weight: bold; background-color: green; padding: 20px; width: fit-content; border-radius: 10px;">
     Check out the source code on Github!
   </a>`;
 
-  parentItem.innerHTML = newItem.innerHTML;
-}
+parentItem.innerHTML = newItem.innerHTML;
 
 const image = document.querySelector("a.btn.bg-white img");
 
