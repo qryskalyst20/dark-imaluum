@@ -1,6 +1,10 @@
-document.querySelector(
+const boxtitle = document.querySelector(
   "section.content div.row div.col-md-6:nth-child(2) .box.box-solid.box-shadow .box-header.bg-green-gradient a h3.box-title"
-).innerHTML = "Support My Github!";
+);
+
+if (boxtitle) {
+  boxtitle.innerHTML = "Support My Github!";
+}
 
 const parentItem = document.querySelector(
   "section.content div.row div.col-md-6:nth-child(2) .box.box-solid.box-shadow .box-body"
@@ -20,6 +24,9 @@ parentItem.innerHTML = newItem.innerHTML;
 
 const image = document.querySelector("a.btn.bg-white img");
 
-image.src = "https://pbs.twimg.com/media/F7fJIGKbEAAOz9I?format=jpg&name=small";
+if (image) {
+  image.src =
+    "https://pbs.twimg.com/media/F7fJIGKbEAAOz9I?format=jpg&name=small";
+}
 
 // <img src="https://pbs.twimg.com/media/F7fJIGKbEAAOz9I?format=jpg&name=large" alt="imaluum" style="width: 100%; height: auto; border-radius: 10px;"/>
