@@ -16,13 +16,17 @@ An attempt to inject css to [i-Ma'luum](https://imaluum.iium.edu.my/home) websit
    ```
    git clone https://github.com/qryskalyst20/dark-imaluum.git
    ```
+   **or if you're unfamiliar with git,**
+   ```
+   Download as zip, then extract
+   ```
 
-2. **Go to Chrome extension site**
+3. **Go to Chrome extension site**
    ```
    chrome://extensions
    ```
 
-3. **Click on `load unpacked` and select `dark-imaluum`**
+4. **Click on `load unpacked` and select `dark-imaluum`**
    
 ![image](https://github.com/qryskalyst20/dark-imaluum/assets/65181897/5714c9bc-f0ba-4fca-96ff-24e1e5b8a382)
 
