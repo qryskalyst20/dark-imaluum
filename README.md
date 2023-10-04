@@ -14,7 +14,7 @@ An attempt to inject css to [i-Ma'luum](https://imaluum.iium.edu.my/home) websit
 ## 🔧 Usage
 1. **Clone the repo**
    ```
-   git clone https://github.com/qryskalyst20/dark-imaluum
+   git clone https://github.com/qryskalyst20/dark-imaluum.git
    ```
 
 2. **Go to Chrome extension site**
