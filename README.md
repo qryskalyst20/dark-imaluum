@@ -1,6 +1,8 @@
 # dark-imaluum
 A chrome extension that dark modes i-Ma'luum website
 
+[https://chrome.google.com/webstore/detail/dark-i-maluum/nemnagepcfclmfpinbffdfjckllgnljp?hl=en-GB&authuser=0](https://chrome.google.com/webstore/detail/dark-i-maluum/nemnagepcfclmfpinbffdfjckllgnljp?hl=en-GB&authuser=0)
+
 ## 🚧 A work in progress
 An attempt to inject css to [i-Ma'luum](https://imaluum.iium.edu.my/home) website to make it dark mode.
 
@@ -12,6 +14,7 @@ An attempt to inject css to [i-Ma'luum](https://imaluum.iium.edu.my/home) websit
 ![demo1](/docs/darkimaluum.gif)
 
 ## 🔧 Usage
+If you wanna try it the traditional way,
 1. **Clone the repo**
    ```
    git clone https://github.com/qryskalyst20/dark-imaluum.git
