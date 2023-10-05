@@ -1,6 +1,7 @@
 # dark-imaluum
 A chrome extension that dark modes i-Ma'luum website
 
+## 🎉 Now available on Chrome Web Store!
 [https://chrome.google.com/webstore/detail/dark-i-maluum/nemnagepcfclmfpinbffdfjckllgnljp?hl=en-GB&authuser=0](https://chrome.google.com/webstore/detail/dark-i-maluum/nemnagepcfclmfpinbffdfjckllgnljp?hl=en-GB&authuser=0)
 
 ## 🚧 A work in progress
